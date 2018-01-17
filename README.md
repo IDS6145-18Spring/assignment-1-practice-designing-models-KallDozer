@@ -1,5 +1,4 @@
-# Assignment1 - Practice Designing Models (Template)
-(remove: **text between brackets to be removed**)
+# Assignment1 - Practice Designing Models
 
 > * Participant name: Matthias Weber
 > * Project Title: (Title of the problem you are looking and modeling)
