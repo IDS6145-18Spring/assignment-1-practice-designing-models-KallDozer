@@ -1,7 +1,7 @@
 # Assignment1 - Practice Designing Models
 
 > * Participant name: Matthias Weber
-> * Project Title: Get to your destination faster and cleaner
+> * Project Title: TCU - Traffic Control Unit (Get to your destination faster and cleaner)
 ## General Introduction
 
 A **smart city** is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently.
@@ -14,11 +14,11 @@ The time that people are wasting, due to this traffic situation is also having a
 That's why a smart city needs a highly efficient traffic control system to bring a large number of people to their desired destination quickly and with low emissions.
 
 In my opinion, this can only succeed if the traffic control system can monitor any type of transportation and is able to manage the traffic control elements (e.g. traffic lights).
-Thus, an constant distribution of all available resources can be achieved and the emerging traffic can be minimized.
-Among other things, this system will have to be based on the existing model of carsharing, because with growing cities the available space will be more and  more limited and for example there will not be enough space left, so that every citizen can have their own car-slot in front of his house/flat or in a parking garage next to his  work.
+Thus, a constant distribution of all available resources can be achieved and the emerging traffic can be minimized.
+Among other things, this system will have to be based on the existing model of car sharing, because with growing cities the available space will be more and more limited and for example there will not be enough space left, so that every citizen can have their own car-slot in front of his house/flat or in a parking garage next to his  work.
 But instead of having an own car, the citizen of the future is having access to a large number of means of transportation, which will consists out of available buses, cars, subways or bicycles.
 
-A centralized schedule (control unit) ensures that everyone comes to the place they want to be, without wasting unnecessary resources (such as time) or making compromises (eg available space).
+A centralized schedule (control unit) ensures that everyone comes to the place they want to be, without wasting unnecessary resources (such as time) or making compromises (e.g. available space).
 
 ## Requirements (Experimental Design)
 
@@ -26,16 +26,16 @@ For better clarity of the planning process, imagine the following everyday situa
 
 A citizen has to get to work at 9 a.m., leaving the work at 5 p.m., picking up his 2 kids from the lacrosse training at 6 p.m. and must get back home (including the lacrosse-equipment).
 The evening before, each appointment has to be registered in the digital calendar, so that the central traffic control unit can create a preliminary plan based on the submitted plans of all citizens.
-When the person is waking up, he would receive an message, that it curently would be faster to take the rental-bike to the subway station (the weather is also good and the health app recommends a little bit of exercise;) ) to reach his workplace on time. Everything worked like it was planned.
+When the person is waking up, he would receive an message, that it currently would be faster to take the rental-bike to the subway station (the weather is also good and the health app recommends a little bit of exercise ;) ) to reach his workplace on time. Everything worked like it was planned.
 When he is leaving the work at 5:15 p.m. the central unit has to reschedule the plan and offers a bus ride to the school. During these rush hours, the traffic lights are switched by the control unit in the way so that traffic can flow optimally. Our person is arriving at the school at 5:55 p.m. and a reserved car (that is big enough for 3 persons and the equipment) is waiting next to the school, so that they can get easily back home.
 
-To ensure that this scenario can take place and is working as it should, the following requiremnet are needed:
+To ensure that this scenario can take place and is working as it should, the following requirements are needed:
 
 1. Every involved component must have permanent access to the central database (to receive the current information) as well as allowed access by the planning unit.
 
 2. This components are mainly traffic lights, road signs, cars, buses, subways, bikes, sensors to monitor pedestrians
 
-3. The citizien has to notify the central routing planning application about all planned and wanted appointments that are requiring transportation. 
+3. The citizen has to notify the central routing planning application about all planned and wanted appointments that are requiring transportation. 
 
 4. This message must include the following information: place of departure, destination, time of arrival, number of persons to be carried, working space required, need for additional storage space, limitations
 
