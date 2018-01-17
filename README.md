@@ -19,7 +19,10 @@ Among other things, this system will have to be based on the existing model of c
 But instead of having an own car, the citizen of the future is having access to a large number of means of transportation, which will consists out of available buses, cars, subways or bicycles.
 
 For better clarity, imagine the following everyday situation:
-fsdfsfsdf
+A citizen has to get to work at 9 a.m., leaving the work at 5 p.m., picking up his 2 kids from the lacrosse training at 6 p.m. and must get back home (including the lacrosse-equipment).
+The evening before, each planned activity is registered in the digital calendar, so that the central traffic control unit can make an effective plan upon the plans of all citizens.
+When the person is waking up, he would receive an message, that it would be faster to take the rental-bike to the subway station (the weather is also good and the health app recommends a little bit of exercise;) ). So, he reaches his workplace on time.
+When he is leaving the work at 5:15 p.m. the central unit has to reschedule the plan and offers a bus ride to the school. During these rush hours, the traffic lights are switched by the control unit in the way so that traffic can flow optimally. Our person is arriving at the school at 5:55 p.m. and a reserves car (that is big enough for 3 persons and the equipment) is waiting next to the school, so that they can get easily back home.  
 
 ## Requirements (Experimental Design)
 
