@@ -20,9 +20,12 @@ But instead of having an own car, the citizen of the future is having access to 
 
 For better clarity, imagine the following everyday situation:
 A citizen has to get to work at 9 a.m., leaving the work at 5 p.m., picking up his 2 kids from the lacrosse training at 6 p.m. and must get back home (including the lacrosse-equipment).
-The evening before, each planned activity is registered in the digital calendar, so that the central traffic control unit can make an effective plan upon the plans of all citizens.
-When the person is waking up, he would receive an message, that it would be faster to take the rental-bike to the subway station (the weather is also good and the health app recommends a little bit of exercise;) ). So, he reaches his workplace on time.
-When he is leaving the work at 5:15 p.m. the central unit has to reschedule the plan and offers a bus ride to the school. During these rush hours, the traffic lights are switched by the control unit in the way so that traffic can flow optimally. Our person is arriving at the school at 5:55 p.m. and a reserves car (that is big enough for 3 persons and the equipment) is waiting next to the school, so that they can get easily back home.  
+The evening before, each appointment has to be registered in the digital calendar, so that the central traffic control unit can create a preliminary plan based on the submitted plans of all citizens.
+When the person is waking up, he would receive an message, that it curently would be faster to take the rental-bike to the subway station (the weather is also good and the health app recommends a little bit of exercise;) ) to reach his workplace on time. Everything worked like it was planned.
+When he is leaving the work at 5:15 p.m. the central unit has to reschedule the plan and offers a bus ride to the school. During these rush hours, the traffic lights are switched by the control unit in the way so that traffic can flow optimally. Our person is arriving at the school at 5:55 p.m. and a reserved car (that is big enough for 3 persons and the equipment) is waiting next to the school, so that they can get easily back home.
+
+This centralized schedule ensures that everyone comes to the place they want to be, without wasting unnecessary resources (such as time) or making compromises (eg available space).
+
 
 ## Requirements (Experimental Design)
 
