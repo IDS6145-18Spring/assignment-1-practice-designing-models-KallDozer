@@ -9,8 +9,10 @@ A **smart city** is an urban area that uses different types of electronic data c
 ![Image of Smart City](images/smartcity.png)
 
 One of the biggest problems of nowadays large cities is the necessary mobility of its residents. As you can observe very well these days, the constant flow of traffic causes many problems. One of these problems is the resulting increased environmental pollution (aggravated by traffic jams) and its impact on the health of the people and animals living there.
+
 The time that people are wasting, due to this traffic situation is also having a negative impact on their life quality.
 That's why a smart city needs a highly efficient traffic control system to bring a large number of people to their desired destination quickly and with low emissions.
+
 In my opinion, this can only succeed if the control system can monitor any type of transportation and is able to manage the traffic control elements (e.g. traffic lights).
 Thus, an constant distribution of all available resources can be achieved and the emerging traffic can be minimized.
 
