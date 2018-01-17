@@ -13,8 +13,13 @@ One of the biggest problems of nowadays large cities is the necessary mobility o
 The time that people are wasting, due to this traffic situation is also having a negative impact on their life quality.
 That's why a smart city needs a highly efficient traffic control system to bring a large number of people to their desired destination quickly and with low emissions.
 
-In my opinion, this can only succeed if the control system can monitor any type of transportation and is able to manage the traffic control elements (e.g. traffic lights).
+In my opinion, this can only succeed if the traffic control system can monitor any type of transportation and is able to manage the traffic control elements (e.g. traffic lights).
 Thus, an constant distribution of all available resources can be achieved and the emerging traffic can be minimized.
+Among other things, this system will have to be based on the existing model of carsharing, because with growing cities the available space will be more and  more limited and for example there will not be enough space left, so that every citizen can have their own car-slot in front of his house/flat or in a parking garage next to his  work.
+But instead of having an own car, the citizen of the future is having access to a large number of means of transportation, which will consists out of available buses, cars, subways or bicycles.
+
+For better clarity, imagine the following everyday situation:
+fsdfsfsdf
 
 ## Requirements (Experimental Design)
 
