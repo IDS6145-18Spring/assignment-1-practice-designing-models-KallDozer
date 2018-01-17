@@ -29,9 +29,23 @@ The evening before, each appointment has to be registered in the digital calenda
 When the person is waking up, he would receive an message, that it curently would be faster to take the rental-bike to the subway station (the weather is also good and the health app recommends a little bit of exercise;) ) to reach his workplace on time. Everything worked like it was planned.
 When he is leaving the work at 5:15 p.m. the central unit has to reschedule the plan and offers a bus ride to the school. During these rush hours, the traffic lights are switched by the control unit in the way so that traffic can flow optimally. Our person is arriving at the school at 5:55 p.m. and a reserved car (that is big enough for 3 persons and the equipment) is waiting next to the school, so that they can get easily back home.
 
+To ensure that this scenario can take place and is working as it should, the following requiremnet are needed:
 
+1. Every involved component must have permanent access to the central database (to receive the current information) as well as allowed access by the planning unit.
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+2. This components are mainly traffic lights, road signs, cars, buses, subways, bikes, sensors to monitor pedestrians
+
+3. The citizien has to notify the central routing planning application about all planned and wanted appointments that are requiring transportation. 
+
+4. This message must include the following information: place of departure, destination, time of arrival, number of persons to be carried, working space required, need for additional storage space, limitations
+
+5. The notification of this transportation requirement can be made via personal computer, by app or by calling a call center.
+
+6. The central planning unit is responsible for the creation of an optimized schedule that is fulfilling all requests.
+
+7. This schedule includes a balanced load of all available means of transport, while ensuring that all the individual requirements of the applicants are met.
+
+8. In the case of a necessary prioritization of submitted requests, the oldest request is going to be prioritized.
 
 ## Smart City (My Problem) Model
 
