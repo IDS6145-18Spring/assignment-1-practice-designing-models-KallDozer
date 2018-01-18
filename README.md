@@ -58,8 +58,8 @@ This will result in a reduced pollution of the environment and an increased leve
 In this section I'm going to illustrate my previous described system by presenting different diagrams.
 
 * [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
-* [**Class Diagram**](model/class_diagram.md) - provides a detailed view of the components 
-* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of way how the componets are ineracting
+* [**Class Diagram**](model/class_diagram.md) - provides a detailed view of the used components 
+* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of the way how the main-componets are ineracting
 
 ## Smart City (My Problem) Simulation
 
