@@ -11,7 +11,7 @@ a real system)
 
 
 object diagram
-![object_diagram](../../images/object_diagram.png)
+![object_diagram](../../images/object_diagram.PNG)
 
 class diagram
-![class_diagram](../../images/class_diagram.png)
+![class_diagram](../../images/class_diagram.PNG)
