@@ -1,6 +1,5 @@
-## Smart City (My Problem) Model
-
-This passage is containing an exemplary implementation from 4 out of 9 classes (unfortunately, with mainly empty functions)
+## Smart City "Traffic Control Unit" exemplary Code
+This passage is containing an exempl Code Examplesary implementation from 4 out of 9 classes (unfortunately, with mainly empty functions)
 
 [request.py](../code/request.py) - this class is representing the request to the TCU of a user for a needed transportation.
 
