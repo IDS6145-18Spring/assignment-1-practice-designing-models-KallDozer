@@ -63,7 +63,7 @@ In this section I'm going to illustrate my previous described system by presenti
 
 ## Smart City (My Problem) Simulation
 
-My described model of a ["Traffic Control Unit"](model/README.md) is mainly a communication and management application. But his great power is the function createSchedule (), which is responsible for the creation of an optimized transportation plan upon all submitted user-requests.
+My described model of a ["Traffic Control Unit"](model/README.md) is mainly a communication and management application. But his great power lies in the function "createSchedule ()", which is responsible for the creation of an optimized transportation plan upon all submitted user-requests.
 
 
 ## Smart City (My Problem) Model
