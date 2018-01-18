@@ -59,7 +59,7 @@ In this section I'm going to illustrate my previous described system by presenti
 
 * [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
 * [**Class Diagram**](model/class_diagram.md) - provides a detailed view of the used components 
-* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of the way how the main-componets are ineracting
+* [**Behavior Diagram**](model/behavior_diagram.md) - provides details of the way how the main-components are interacting
 
 ## Smart City "Traffic Control Unit" Simulation
 
