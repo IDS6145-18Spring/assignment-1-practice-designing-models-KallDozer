@@ -1,17 +1,8 @@
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
+The POTS-System is consisting out of 4 main types of components. A POTS system can be of different vegetables, containers, water and soil. The overall structure is ilustrated as follows:
 
-(Remove: decribe the model here, use whatever diagram you need object, class, etc)
-
-(Remove: The code does run - you should try it. It does not do much, but has a very basic 
-simulation loop in it and key press to take a look at.)
-
-(Remove: You kill your plants after a key timesteps, but you could always add nuterients
-from compost and add more water and tweak it based on measured constants to simulate
-a real system)
-
-
-object diagram
+## object diagram (POTS-system)
 ![object_diagram](../../images/object_diagram.PNG)
 
-class diagram
+## class diagram (POTS-system)
 ![class_diagram](../../images/class_diagram.PNG)
