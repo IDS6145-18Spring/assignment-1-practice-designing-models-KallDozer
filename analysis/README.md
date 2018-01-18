@@ -7,6 +7,8 @@ For this reason, I think that no continuous simulation is needed, because it is 
 
 In order to accomplish this task, the system has control over any traffic control elements and can associate the existing means of transport with the requests.
 
+In the first phase, I would serve the simulation with a given list of corresponding requests, which will face a limited amount of resources. I would then try to determine, by minimizing the resources, from which amount a meaningful planning is no longer possible (optimal solution).
 
+In the second phase, I would then generate the requests randomly and try to determine the optimal threshold for the needed resources by using multiple simulation runs.
 
-(remove: Roughly, how would you conduct the simulation to produce the results from your specification?)
+In the third and final phase, I would increase the number of generated requests in order to be able to make statements regarding a relationship between the number of requests and the needed resources.
