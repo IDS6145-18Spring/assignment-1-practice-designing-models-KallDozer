@@ -1,7 +1,8 @@
 class request:
-    ''' A general request class '''
+    ''' The general request class '''
 
     def __init__(self, u, n, a, sX, sY, dX, dY, nS):
+        '''Intializes the general request'''
         self.user_ID = u
         self.number = n
         self.arrivalTime = a
