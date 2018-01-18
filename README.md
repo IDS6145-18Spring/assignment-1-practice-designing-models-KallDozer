@@ -20,6 +20,9 @@ But instead of having an own car, the citizen of the future is having access to 
 
 A centralized schedule (control unit) ensures that everyone comes to the place they want to be, without wasting unnecessary resources (such as time) or making compromises (e.g. available space).
 
+![Mobility in future](images/traffic_contreled_city.jpg)
+copyright: Bosch, Siemens
+
 ## Requirements (Experimental Design)
 
 For better clarity of the planning process, imagine the following everyday situation:
