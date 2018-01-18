@@ -66,8 +66,8 @@ In this section I'm going to illustrate my previous described system by presenti
 My described model of a ["Traffic Control Unit"](model/README.md) is mainly a communication and management application. But his great power lies in the function "createSchedule ()", which is responsible for the creation of an optimized transportation plan upon all submitted user-requests.
 
 
-## Smart City "Traffic Control Unit" Model
-[**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
+## Smart City "Traffic Control Unit" Code
+[**exemplary Code**](code/README.md) - This part is containing the initial implementation of the previous mentioned classes in code
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
