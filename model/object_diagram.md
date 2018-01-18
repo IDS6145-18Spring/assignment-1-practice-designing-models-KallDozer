@@ -5,7 +5,7 @@
 (remove: use images!!!)
 (remove: I added an example image to illustrate [**how to use Markdown**](https://guides.github.com/features/mastering-markdown/), maybe consider a tool like [**Haroodpad**](http://pad.haroopress.com/user.html) )
 
-![Object Diagram](../images/object_diagram2.png)
+![Object Diagram](../images/object_diagram_TCU.png)
 
 (remove: More decription)
 (remove: Maybe a second or third diagram to highlight a point or aspect)
