@@ -1,4 +1,4 @@
-## Smart City "Traffic Control Unit" Simulation
+## Smart City "Traffic Control Unit" Simulation Analysis
 
 For the simulation of my traffic planning application I would choose the approach of a discrete event simulation, because the overall system is mainly consisting out of management commands that are based upon an previous created schedule.
 This is an optimized plan in which the needs of the citizens for mobility are realized, with simultaneous minimum expenditure of means of transport.
