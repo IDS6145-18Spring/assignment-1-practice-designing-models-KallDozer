@@ -1,13 +1,5 @@
 ## Smart City (My Problem) Model - Object Diagram
 
-(remove: provide a description of the current model you describe below)
-
-(remove: use images!!!)
-(remove: I added an example image to illustrate [**how to use Markdown**](https://guides.github.com/features/mastering-markdown/), maybe consider a tool like [**Haroodpad**](http://pad.haroopress.com/user.html) )
+This diagram is representing a rough overview of the involved components of my Traffic-control-unit that should lead to the situation where a city is able to use ALL their transportation-ressources efficient. 
 
 ![Object Diagram](../images/object_diagram_TCU.png)
-
-(remove: More decription)
-(remove: Maybe a second or third diagram to highlight a point or aspect)
-
-(remove: each diagram markdown file should roughly follow this template)
