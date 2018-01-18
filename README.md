@@ -55,7 +55,7 @@ To ensure that this scenario can take place and is working as it should, the fol
 * [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
 * [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+details of)
 
 ## Smart City (My Problem) Simulation
 
