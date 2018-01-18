@@ -23,7 +23,7 @@ A centralized schedule (control unit) ensures that everyone comes to the place t
 ![Mobility in future](images/traffic_controled_city.png)
 copyright: Bosch, Siemens
 
-## Requirements (Experimental Design)
+## Requirements and Objective
 
 For better clarity of the planning process, imagine the following everyday situation:
 
