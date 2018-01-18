@@ -47,7 +47,8 @@ To ensure that this scenario can take place and is working as it should, the fol
 
 8. In the case of a necessary prioritization of submitted requests, the oldest request is going to be prioritized.
 
-By using this creating and using this simulation I want to be able to identify the minimum amount of transport needed to meet the mobility needs of all the citizens of a city.
+By using this creating and using this simulation it should be possible to identify the minimum amount of transport needed to meet the mobility needs of all the citizens of a city.
+This will result in a reduced pollution of the environment and an increased level of satisfaction of all citizens
 
 ## Smart City (My Problem) Model
 
