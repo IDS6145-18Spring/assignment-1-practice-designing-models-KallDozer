@@ -49,13 +49,11 @@ To ensure that this scenario can take place and is working as it should, the fol
 
 ## Smart City (My Problem) Model
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
+In this section I'm going to illustrate my previous described system by presenting different diagrams.
 
 * [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
 * [**Class Diagram**](model/class_diagram.md) - provides a detailed view of the components 
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of way how the componets are ineracting
-details of)
 
 ## Smart City (My Problem) Simulation
 
