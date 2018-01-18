@@ -1,9 +1,11 @@
 ## Smart City (My Problem) Model
 
-(remove:  Starting coding framework for the (insert your exact problem here.)
-(remove: learn to describe your code a bit, link the files and provide a brief explanation what each file is doing for your model and simulation)
+This passage is containing an exemplary implementation from 4 out of 9 classes (unfortunately, with mainly empty functions)
 
-## [request.py](../code/request.py)
-## [control_info_element.py](../code/control_info_element.py)
-## [traffic_lights.py](../code/traffic_lights.py)
-## [road_sign.py](../code/road_sign.py)
+[request.py](../code/request.py) - this class is representing the request to the TCU of a user for a needed transportation.
+
+[control_info_element.py](../code/control_info_element.py) - This class is combining all elements that can influence the traffic flow.
+
+[traffic_lights.py](../code/traffic_lights.py) - This class is containing the traffic lights and his characteristics.
+
+[road_sign.py](../code/road_sign.py)- This class is containing the functions and attributes that are needed to influence digital road signs.
