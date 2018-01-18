@@ -63,8 +63,9 @@ In this section I'm going to illustrate my previous described system by presenti
 
 ## Smart City "Traffic Control Unit" Simulation
 
-My described model of a ["Traffic Control Unit"](analysis/README.md) is mainly a communication and management application. But his great power lies in the function "createSchedule ()", which is responsible for the creation of an optimized transportation plan upon all submitted user-requests.
+My described model of a "Traffic Control Unit" is mainly a communication and management application. But his great power lies in the function "createSchedule ()", which is responsible for the creation of an optimized transportation plan upon all submitted user-requests.
 
+For a deeper insight and the analysis of the simulation please look [here](analysis/README.md)
 
 ## Smart City "Traffic Control Unit" Code
 [**Exemplary Code**](code/README.md) - This part is containing the initial implementation of the previous mentioned classes in code
