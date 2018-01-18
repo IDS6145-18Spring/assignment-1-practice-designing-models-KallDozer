@@ -11,7 +11,7 @@ a real system)
 
 
 object diagram
-![POTS system](../../images/object_diagram.png)
+![object_diagram](../../images/object_diagram.png)
 
 class diagram
-![POTS system](../../images/class_diagram.png)
+![class_diagram](../../images/class_diagram.png)
