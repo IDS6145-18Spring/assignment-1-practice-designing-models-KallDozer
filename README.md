@@ -53,7 +53,7 @@ To ensure that this scenario can take place and is working as it should, the fol
 By using this creating and using this simulation it should be possible to identify the minimum amount of transport needed to meet the mobility needs of all the citizens of a city.
 This will result in a reduced pollution of the environment and an increased level of satisfaction of all citizens
 
-## Smart City (My Problem) Model
+## Smart City "Traffic Control Unit" Model
 
 In this section I'm going to illustrate my previous described system by presenting different diagrams.
 
@@ -61,12 +61,12 @@ In this section I'm going to illustrate my previous described system by presenti
 * [**Class Diagram**](model/class_diagram.md) - provides a detailed view of the used components 
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of the way how the main-componets are ineracting
 
-## Smart City (My Problem) Simulation
+## Smart City "Traffic Control Unit" Simulation
 
 My described model of a ["Traffic Control Unit"](model/README.md) is mainly a communication and management application. But his great power lies in the function "createSchedule ()", which is responsible for the creation of an optimized transportation plan upon all submitted user-requests.
 
 
-## Smart City (My Problem) Model
+## Smart City "Traffic Control Unit" Model
 [**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
