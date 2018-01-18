@@ -6,6 +6,6 @@ This passage is containing an exemplary implementation from 4 out of 9 classes (
 
 [control_info_element.py](../code/control_info_element.py) - This class is combining all elements that can influence the traffic flow.
 
-[traffic_lights.py](../code/traffic_lights.py) - This class is containing the traffic lights and his characteristics.
+[traffic_light.py](../code/traffic_light.py) - This class is containing the traffic lights and his characteristics.
 
 [road_sign.py](../code/road_sign.py)- This class is containing the functions and attributes that are needed to influence digital road signs.
